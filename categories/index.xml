@@ -10,5 +10,14 @@
 	<atom:link href="https://crashcoursekr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Sociology</title>
+      <link>https://crashcoursekr.github.io/categories/sociology/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:05 +0900</pubDate>
+      
+      <guid>https://crashcoursekr.github.io/categories/sociology/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
